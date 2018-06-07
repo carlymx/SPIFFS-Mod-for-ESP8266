@@ -1,0 +1,2 @@
+# SPIFFS-Mod-for-ESP8266
+SPIFFS mod resize for ESP8266 (512KB)
